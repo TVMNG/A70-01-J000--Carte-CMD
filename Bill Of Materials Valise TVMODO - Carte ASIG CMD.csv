@@ -33,7 +33,7 @@ Diodes,4,D11-D14,KPTD3216MGC,"Led verte CMS, boitier 1206",Kingbright,KPTD3216MG
 Miscellaneous,7,FU1-FU7,0.4A,Fusible réarmable CMS 0.4A / 100A / 30V,Littelfuse,1812L035/60,1812
 Miscellaneous,8,"IC1,IC3-IC4,IC6-IC10",LM7322MA,"Dual Rail-to-Rail Input and Output ±15-V, High-Output Current Operational Amplifier",Texas Instruments,LM7322MA/NOPB,SO8
 Miscellaneous,2,"IC5,IC12",MCP23018-E/SS,"I²C I/O expander, 16 ways",Microchip,MCP23018-E/SS,SSOP24
-Miscellaneous,1,IC20,LM1117IMP-3.3,"3.3V regulator, SOT223, 800mA",Texas Instruments,LM1117IMP-3.3,SOT223-3
+Miscellaneous,1,IC20,LM1117IMP-3.3,"3.3V regulator, SOT223, 800mA",Texas Instruments,TLV1117-33IDCYR,SOT223-3
 Miscellaneous,1,P1,2-530666-1 - Edge side,"Empreinte bord de carte, 12cts, pas 3.69mm",TE CONNECTIVITY,2-530666-1 (pour réf.),2-530666-1 - EDGE SIDE
 Miscellaneous,1,P2,5645169-3 - Edge side,"Empreinte pour connecteur bord de carte, 98pts, pas 2.54mm",TE CONNECTIVITY,5645169-3 (pour réf.),5645169 - EDGE SIDE
 Miscellaneous,18,"PT1-PT12,PT19-PT24",5029,Point test CMS pour grip-fil,Keystone,5029,5029
